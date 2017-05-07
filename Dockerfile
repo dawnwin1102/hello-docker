@@ -1,3 +1,2 @@
-FROM busybox:latest
-MAINTAINER "dawnwin1102@hotmail.com"
-cmd echo hello world
+FROM busyboxlatest
+cmd echo hi leo
