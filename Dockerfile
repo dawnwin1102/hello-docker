@@ -1,2 +1,2 @@
-FROM busyboxlatest
+FROM busybox:latest
 cmd echo hi leo
